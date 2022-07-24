@@ -1,5 +1,7 @@
 function upperCaser(input) {
-  string.toUpperCase(*)
+  input.toUpperCase(*);
     }
 
-    module.exports = upperCase
+  module.exports = upperCase
+
+  console.log(input.toUpperCase);
